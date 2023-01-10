@@ -14,7 +14,9 @@ a {
     text-decoration: none;
 }
 
+/*default left: #002853 right: #040C18 x: 3 y:25 radial  */
 .gradient__bg {
+    
     background:-moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
 
     /* safari 5.1+,chrome 10+ */
