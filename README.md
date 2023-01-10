@@ -1,4 +1,4 @@
-# GPT-3
+# GPT-3 - Portfolio Project - David Cerdeira
 ### [Live Site](https://davidcerdeira.github.io/gpt3/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
